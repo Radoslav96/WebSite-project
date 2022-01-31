@@ -84,7 +84,7 @@
     transition-duration: .2s;
   }
   /*sama boja navigacionog dela*/
-  .page__custom-settings{
+  .navigacioni_deo__custom-settings{
     --menuBackgroundColor: rgba(128, 128, 128, 0.322);
     --menuLinkColor: rgba(107, 32, 32, 0.466);
     --menuLinkColorUnactive: #ffffff;
